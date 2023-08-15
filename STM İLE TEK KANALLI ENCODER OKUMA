@@ -42,7 +42,7 @@
 TIM_HandleTypeDef htim2;
 
 /* USER CODE BEGIN PV */
-
+// değişiklik yaptım 
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
